@@ -13,19 +13,19 @@ An english-learning helper
 
 Usage
 -----
-
+You can use how2write using the `how2write` command.
 Installation
 ------------
-
+`pip install how2write`
 Requirements
 ^^^^^^^^^^^^
-
+`pygame`, `requests`, `gTTS`
 Compatibility
 -------------
-
+Python 3.6 and higher
 Licence
 -------
-
+MIT
 Authors
 -------
 
